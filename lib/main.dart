@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
           'Api_Rest_flutter',
           style: TextStyle(color: Colors.white),
         ),
-        backgroundColor: Colors.green, // Cambio de color a morado
+        backgroundColor: Colors.green, // Cambio de color a verde
       ),
       body: DataTable(
         columns: [
